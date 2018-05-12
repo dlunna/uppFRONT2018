@@ -1,24 +1,45 @@
-<nav class="navbar navbar-expand ">
-
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <!--<a class="navbar-brand" href="#">Navbar</a>-->
   <a class="navbar-brand" href="http://www.upp.edu.mx">
     <img src="./images/logo.fw.png" width="25" height="30" alt="UPPachuca" />
   </a>
-
-  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar" aria-controls="navbarsExample02" aria-expanded="false" aria-label="Toggle navigation">
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
 
-  <div class="collapse navbar-collapse" id="navbar">
+  <div class="collapse navbar-collapse" id="navbarSupportedContent">
     <ul class="navbar-nav mr-auto">
+      <!--
+      <li class="nav-item active">
+        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Dropdown
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="#">Action</a>
+          <a class="dropdown-item" href="#">Another action</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="#">Something else here</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link disabled" href="#">Disabled</a>
+      </li>
+      -->
+
       <li class="nav-item active"><a class="nav-link" href="http://www.upp.edu.mx">UPP</a></li>
       <li class="nav-item"><a class="nav-link" href="https://sii.upp.edu.mx">SII</a></li>
       <li class="nav-item"><a class="nav-link" href="http://transparencia.hidalgo.gob.mx/?p=719">Transparencia</a></li>
       <li class="nav-item"><a class="nav-link" href="#contacto">Contacto</a></li>
       <li class="nav-item"><a class="nav-link" href="#mapadesitio">Mapa de sitio</a></li>
     </ul>
-
-    <ul class="navbar-nav ml-auto">
-      <li style=" width: 300px;">
+    <ul class="navbar-nav mr-auto">
+      <li>
         <script>
           (function() {
             var cx = '006343853153777457233:bjp7ht6mskm';
@@ -35,19 +56,18 @@
       </li>
     </ul>
 
-    <ul class="navbar-nav ml-auto">
+    <ul class="navbar-nav mr-auto">
       <li class="nav-item">
-        <a href="index.php?var_idioma=1" target="_self">
-          <img src="./images/mex.png" alt="Español">
-        </a>
-      </li>
-      <li class="nav-item"> | </li>
-      <li class="nav-item">
-        <a href="index.php?var_idioma=2" target="_self">
-          <img src="./images/usa.png" alt="English">
-        </a>
+
+        <div id="google_translate_element"></div>
+        <script type="text/javascript">
+        function googleTranslateElementInit() {
+          new google.translate.TranslateElement({pageLanguage: 'es', includedLanguages: 'de,en,fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+        }
+        </script>
+        <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
       </li>
     </ul>
-
   </div>
 </nav>

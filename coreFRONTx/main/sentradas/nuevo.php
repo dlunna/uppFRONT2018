@@ -5,9 +5,20 @@
   <div class="row">
 
     <div class="col-md-4">
-      <a href="http://www.upp.edu.mx/front">
-        <button type="button" class="btn btn-uppachuca btn-lg">Blog UPP</button>
-      </a>
+      <h1>Publicaciones UPP</h1>
+      <p>
+        <a href="http://upp.edu.mx/front/">http://upp.edu.mx/front/</a>
+      </p>
+<!--
+      <button type="button" class="btn btn-uppachuca btn-lg">
+        <a href="http://www.upp.edu.mx/front">Blog UPP</a>
+      </button>
+-->
+<!--
+      <form action="http://www.upp.edu.mx/front" method="get">
+         <button type="submit" class="btn btn-uppachuca btn-lg">Blog UPP</button>
+      </form>
+-->
 
       <?php
         $curl = curl_init();
@@ -36,52 +47,42 @@
 
                 switch ($item->category) {
                   case "Convocatorias":
-                    echo " <a href=\"".$item->link."\">
-                             <button type=\"button\" class=\"btn btn-primary\">
+                    echo "
+                             <a href=\"".$item->link."\" class=\"btn btn-warning\">
                                + información
-                             </button>
-                           </a>
-
+                             </a>
                          ";
                     break;
 
                     case "Becas":
-                      echo " <a href=\"".$item->link."\">
-                               <button type=\"button\" class=\"btn btn-success\">
-                                 + información
-                               </button>
+                      echo "
+                             <a href=\"".$item->link."\" class=\"btn btn-success\">
+                               + información
                              </a>
-
                            ";
                       break;
 
                       case "Noticias Académicas":
-                        echo " <a href=\"".$item->link."\">
-                                 <button type=\"button\" class=\"btn btn-info\">
-                                   + información
-                                 </button>
+                        echo "
+                               <a href=\"".$item->link."\" class=\"btn btn-info\">
+                                 + información
                                </a>
-
                              ";
                         break;
 
                         case "Varios":
-                          echo " <a href=\"".$item->link."\">
-                                   <button type=\"button\" class=\"btn btn-warning\">
-                                     + información
-                                   </button>
+                          echo "
+                                 <a href=\"".$item->link."\" class=\"btn btn-dark\">
+                                   + información
                                  </a>
-
                                ";
                           break;
 
                   default:
-                    echo " <a href=\"".$item->link."\">
-                             <button type=\"button\" class=\"btn btn-default\">
-                               + información
-                             </button>
+                    echo "
+                           <a href=\"".$item->link."\" class=\"btn btn-default\">
+                             + información
                            </a>
-
                          ";
                     break;
                 }
@@ -93,9 +94,17 @@
     </div>
 
     <div class="col-md-4">
+      <h1>Servicios escolares</h1>
+      <p>
+        <a href="http://upp.edu.mx/serviciosescolares">
+          http://upp.edu.mx/serviciosescolares
+        </a>
+      </p>
+      <!--
       <a href="http://www.upp.edu.mx/serviciosescolares">
       <button type="button" class="btn btn-uppachuca btn-lg">Servicios escolares</button>
       </a>
+    -->
 
       <?php
       //echo "dentro del php";
@@ -134,10 +143,9 @@
                 //echo '<p>Author: ' . $creator . '</p>';
                 echo '<p>' . $item->description . '</p>';
                 //echo '<p><a href="' . $item->link . '">Leer más: ' . $item->title . '</a></p>';
-                echo " <a href=\"".$item->link."\">
-                         <button type=\"button\" class=\"btn btn-default\">
-                           + información
-                         </button>
+                echo "
+                       <a href=\"".$item->link."\" class=\"btn btn-primary\">
+                         + información
                        </a>
                      ";
                 $i++;
@@ -149,7 +157,10 @@
     </div>
 
     <div class="col-md-4">
+      <h1>Recomendaciones</h1>
+      <!--
       <button type="button" class="btn btn-uppachuca btn-lg">Recomendaciones</button>
+    -->
 
       <br />
       <hr />

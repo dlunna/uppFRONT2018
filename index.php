@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 
 <head>
   <?php include ('./coreFRONTx/head/cabecera.html'); ?>
@@ -55,7 +55,7 @@
 
       <?php include ('./coreFRONTx/main/prensa/iconosfooter.php'); ?>
 
-      <a name="mapadesitio"></a>
+      <a id="mapadesitio"></a>
       <hr class="featurette-divider">
 
       <!-- Menu con todos los sitios y mini sitios de la página -->
