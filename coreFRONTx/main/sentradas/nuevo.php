@@ -7,7 +7,7 @@
     <div class="col-md-4">
       <h1>Publicaciones UPP</h1>
       <p>
-        <a href="http://upp.edu.mx/front/">http://upp.edu.mx/front/</a>
+        <a href="http://upp.edu.mx/rfront/">http://upp.edu.mx/rfront/</a>
       </p>
 <!--
       <button type="button" class="btn btn-uppachuca btn-lg">
@@ -23,7 +23,7 @@
       <?php
         $curl = curl_init();
         curl_setopt_array($curl, array(
-          CURLOPT_URL            => 'http://www.upp.edu.mx/front/?feed=rss2',
+          CURLOPT_URL            => 'http://www.upp.edu.mx/rfront/?feed=rss2',
           CURLOPT_USERAGENT      => 'spider',
           CURLOPT_TIMEOUT        => 120,
           CURLOPT_CONNECTTIMEOUT => 30,

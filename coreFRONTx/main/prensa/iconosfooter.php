@@ -12,40 +12,27 @@
 
         <!-- /Slide1 -->
         <div class="carousel-item active"> <!-- primer bloque de 4 -->
-          <div class="row"> <!-- primer bloque de 4 -->
+          <div class="row justify-content-md-center" > <!-- primer bloque de 4 -->
 
             <!-- UNO -->
-
-                  <div class="col-md-3">
-                  <a href="http://search.ebscohost.com">
-                    <img src="./images/ligas/ebsco.jpg" alt="ebsco search">
-                  </a>
-                  </div>
-
-
+              <a href="http://search.ebscohost.com">
+                <img src="./images/ligas/ebsco.jpg" alt="ebsco search"  >
+              </a>
             <!-- DOS -->
-                  <div class="col-md-3">
-                  <a href="http://www.upp.edu.mx/contraloriasocial/">
-                    <img src="./images/ligas/contraloria-social.jpg" alt="Contraloria social">
-                  </a>
-                  </div>
-
-
+            <p>.</p>
+              <a href="http://www.upp.edu.mx/contraloriasocial/">
+                <img src="./images/ligas/contraloria-social.jpg" alt="Contraloria social">
+              </a>
             <!-- TRES -->
-                  <div class="col-md-3">
-                  <a href="https://www.gob.mx/imjuve">
-                    <img src="./images/ligas/imjuve.jpg" alt="tres">
-                  </a>
-                  </div>
-
-
+            <p>.</p>
+              <a href="https://www.gob.mx/imjuve">
+                <img src="./images/ligas/imjuve.jpg" alt="tres">
+              </a>
             <!-- CUATRO -->
-                  <div class="col-md-3">
-                  <a href="http://www.inegi.org.mx/default.aspx">
-                    <img src="./images/ligas/inegi.jpg" alt="cuatro">
-                  </a>
-                  </div>
-
+            <p>.</p>
+              <a href="http://www.inegi.org.mx/default.aspx">
+                <img src="./images/ligas/inegi.jpg" alt="cuatro">
+              </a>
           </div> <!-- fin primer bloque de 4 -->
         </div>  <!-- fin primer bloque de 4 -->
         <!-- /Slide1 -->
@@ -53,31 +40,23 @@
         <!-- /Slide2 -->
 
         <div class="carousel-item">
-          <div class="row">
+          <div class="row justify-content-md-center">
 
-                  <div class="col-md-3">
                   <a href="http://www.upp.edu.mx/3esp/index.php?option=com_content&view=article&id=2&Itemid=131">
                     <img src="./images/ligas/fondosextraordinarios.jpg" alt="fondos extraordinarios">
                   </a>
-                  </div>
-
-                  <div class="col-md-3">
+                  <p>.</p>
                   <a href="http://www.unlugarparati.mx">
                     <img src="./images/ligas/un-lugar-para-ti.jpg" alt="Un lugar para ti">
                   </a>
-                  </div>
-
-                  <div class="col-md-3">
+                  <p>.</p>
                   <a href="http://s-contraloria.hidalgo.gob.mx/descargables/CODIGO-3.pdf">
                     <img src="./images/ligas/etica.jpg" alt="Cuadernillo de etica">
                   </a>
-                  </div>
-
-                  <div class="col-md-3">
+                  <p>.</p>
                   <a href="http://www.bibliotecaecest.mx">
                     <img src="./images/ligas/ecest.jpg" alt="ocho">
                   </a>
-                  </div>
 
           </div>
         </div>
