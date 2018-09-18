@@ -3,71 +3,73 @@
 
 $matriz = array(
 
-  array("./images/slidereventos/I2018-06-27.jpg",
-        "Lucha contra drogas",
-        "En el marco del Día Internacional de la Lucha contra el uso indebido y tráfico ilícito de drogas",
-        "https://twitter.com/UPPachuca/status/1011743138405408768"),
+  array("https://pbs.twimg.com/media/DnVkgVoVAAAw_zt.jpg",
+        "Egresados",
+        "Reencuéntrate con tus amigas y amigos en una noche mexicana ",
+        "https://twitter.com/UPPachuca/status/1041851858992726016"),
 
-  array("./images/slidereventos/I2018-04-13.jpg",
-        "Crecimiento Cristalino",
-        "Primer Concurso de Exhibición y Crecimiento Cristalino UPPachuca 2018 en la Universidad Politécnica de Pachuca",
-        "https://twitter.com/UPPachuca/status/984833484773609472"),
-
-  array("./images/slidereventos/I2018-03-26.jpg",
-        "Aldea Tecnológica",
-        "5ta edición de Aldea Tecnológica donde alumnas y alumnos de nuestros programas educativos de Software, Telemática, Redes y Telecomunicaciones ...",
-        "https://twitter.com/UPPachuca/status/978328823086436352"),
-
-  array("./images/slidereventos/I2018-03-16.jpg",
-        "#OrgulloUPPachuca",
-        "Felicitamos a Shamanta Cruz por el 1er Lugar en 800 mts en Atletismo obtenido en el encuentro nacional Interpolitécnicas 2018 en León, Gto. ",
-        "https://twitter.com/UPPachuca/status/974716516464775168"),
+  array("https://pbs.twimg.com/media/DnVdR_7UYAA7me_.jpg",
+        "UPPachuca",
+        "Corre, trota o camina, pero actívate en nuestro 15 aniversario participando en la carrera Atlética 5K",
+        "https://twitter.com/UPPachuca/status/1041845533973913601"),
 
 
-array("./images/slidereventos/I2018-03-15.jpg",
-      "#OrgulloUPPachuca",
-      "Felicitamos a Mariana Hernández por obtener 1er lugar en 200 mts libre y 50 mts pecho,  durante el encuentro de Interpolitécnicas 2018 en León, Gto. ",
-      "https://twitter.com/UPPachuca/status/974435211730735104"),
 
-  array("./images/slidereventos/V08.jpg",
-        "Oferta educativa",
-        "En el marco de nuestro aniversario, celebramos compartiendo nuestra #OfertaEducativa con las alumnas y alumnos del Cetis No. 26 de Atitalaquia.",
-        "https://twitter.com/UPPachuca/status/964601172127637504"),
 
-  array("./images/slidereventos/V07.jpg",
-        "Semana de salud 2018",
-        "En el marco de nuestro aniversario #NuestraRazónDeSerTú Por ello continuamos cuidando tu salud con la Primera semana de salud 2018",
-        "https://twitter.com/UPPachuca/status/963875236826501120"),
 
-  array("./images/slidereventos/V06.jpg",
-        "CACEI",
-        "Celebramos que el Programa de Ingeniería en Mecatrónica fue recertificado por parte del Consejo de Acreditación de la Enseñanza de la Ingeniería",
-        "https://twitter.com/UPPachuca/status/963491583059484674"),
 
-  array("./images/slidereventos/V05.jpg",
-        "Activaciones físicas",
-        "En el marco de nuestro aniversario damos la bienvenida deportiva y cultural a estudiantes de nuevo ingreso.",
-        "https://twitter.com/UPPachuca/status/962375113508376582"),
+  array("https://pbs.twimg.com/media/DnU4a0PU4AATpS9.jpg",
+        "UPPachuca",
+        "¿Te gusta cantar o bailar? Este es el momento de demostrar que además de ser un gran estudiante eres un #Talento UPPachuca",
+        "https://twitter.com/UPPachuca/status/1041805006679289856"),
 
-  array("./images/slidereventos/V01.jpg",
-        "CTE hidalgo",
-        "Cierre de año de #CTEHidalgo en la #UPPachuca Nuestros primeros frutos de los trabajos coordinados en cada uno de los ejes temáticos. ",
-        "https://twitter.com/UPPachuca/status/942804725640187904"),
+  array("https://pbs.twimg.com/media/DnUwc0lU4AAO7VD.jpg",
+        "UPPachuca",
+        "En la #UPPachuca llevamos #15 Años Construyendo Nuestra Historia y te invitamos a plasmarlo a través de un mural.",
+        "https://twitter.com/UPPachuca/status/1041792577530421248"),
 
-  array("./images/slidereventos/V02.jpg",
-        "Taller de proyectos de investigación",
-        "Concluye el taller curso taller Elaboración de proyectos de investigación en salud",
-        "https://twitter.com/UPPachuca/status/941809405200355331"),
+  array("https://pbs.twimg.com/media/DnT4zJIVYAE8Lyc.jpg",
+        "UPPachuca",
+        "En la #UPPachuca llevamos #15 Años Construyendo Nuestra Historia y lo celebramos promoviendo # Ambientes De Sana Convivencia con Deporte y Salud.",
+        "https://twitter.com/UPPachuca/status/1041733766111260673"),
 
-  array("./images/slidereventos/V03.jpg",
-        "Violencia es Violencia",
-        "La sesión “Violencia es Violencia” a cargo del Mtro. Alexandro Vladimir Peña quien concientizó a nuestras alumn@s en temas de equidad de género ...",
-        "https://twitter.com/UPPachuca/status/941397987049304069"),
+  array("https://pbs.twimg.com/media/DnAcwPxV4AAbk6r.jpg",
+        "UPPachuca",
+        "Tres días de actividades a favor de las salud de nuestra comunidad universitaria, conferencias, pláticas, vacunas y revisiones. ",
+        "https://twitter.com/UPPachuca/status/1040365512428019712"),
 
-  array("./images/slidereventos/V04.jpg",
-        "4ta #CarreraAtlética #CreandoEsperanza",
-        "La UPPachuca participa en la 4ta #CarreraAtlética #CreandoEsperanza para apoyar a niños con insuficiencia renal.",
-        "https://www.facebook.com/UPPachuca/photos/pcb.1917785571806184/1917784778472930/?type=3GATITOtheater")
+  array("https://pbs.twimg.com/media/DnATQIZVAAA7sCS.jpg",
+        "UPPachuca",
+        "Ha sido un placer recibir a las niñas y los niños de las primarias Justo Sierra y Melchor Ocampo, esperamos que su visita les motive a seguir adelante",
+        "https://twitter.com/UPPachuca/status/1040353862442536960"),
+
+  array("https://pbs.twimg.com/media/Dm52FskWwAAtsn4.jpg",
+        "15 Años",
+        "Celebremos juntos 15 años de trabajo a favor de la educación, la ciencia y la tecnología.",
+        "https://twitter.com/UPPachuca/status/1039898432297680896"),
+
+
+  array("https://pbs.twimg.com/media/DmveZxqUwAICEbW.jpg",
+        "15 Años",
+        "15 Años Construyendo Nuestra Historia reflejan el compromiso de mujeres y hombres con y para la educación",
+        "https://twitter.com/UPPachuca/status/1039168680351997957"),
+
+  array("https://pbs.twimg.com/media/DmiCaVoUcAAm3ik.jpg",
+        "Platica S.E.A.",
+        "Agradecemos a la C.P.C Myrna Rocio Moncada, Pta del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, por impartir la plática ...",
+        "https://twitter.com/UPPachuca/status/1038225367188860928"),
+
+  array("https://pbs.twimg.com/media/Dmh6stnVAAAcvYl.jpg",
+        "#2doInformeOmarFayad",
+        "La rendición de cuentas del #TrabajoResponsable fortalece la confianza y estimula el compromiso de quienes formamos parte de la administración pública ",
+        "https://twitter.com/UPPachuca/status/1038217903953379329"),
+
+
+        array("./images/slidereventos/I2018-07-30.jpg",
+              "Trata de personas",
+              "En el marco del Día Mundial Contra La Trata De Personas la #UPPachuca se suma a esta lucha. #JuntosSomosMás",
+              "https://twitter.com/UPPachuca/status/1023645032115363840")
+
 
 
 

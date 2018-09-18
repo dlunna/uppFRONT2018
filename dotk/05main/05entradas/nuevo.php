@@ -155,14 +155,14 @@
       <br />
       <hr />
       <h3>Revista INMENIO</h3>
-      <a href="https://issuu.com/inmenio/docs/inmenio_9">
-        <img src="./images/revistas/INMENIO-2018-marzo.jpg" class="featurette-image img-responsive" alt="Revista INMENIO" />
+      <a href="https://issuu.com/inmenio/docs/inmenio_10">
+        <img src="./images/revistas/INMENIO-2018-julio.jpg" class="featurette-image img-responsive img-thumbnail" alt="Revista INMENIO" />
       </a>
 
       <hr />
       <h3>SIMCI</h3>
       <a href="http://www.upp.edu.mx/simci">
-        <img src="./images/revistas/mini-simci.jpg" class="featurette-image img-responsive" alt="Revista SIMCI" />
+        <img src="./images/revistas/mini-simci.jpg" class="featurette-image img-responsive img-thumbnail" alt="Revista SIMCI" />
       </a>
     </div>
   </div> <!--fin de ROW -->

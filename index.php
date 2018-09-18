@@ -40,6 +40,12 @@
       <a id="comunidad"></a>
       <hr class="featurette-divider">
       <!-- comunidad upp y egresados -->
+
+      <?php include ('./dotk/05main/03comunidad/aspirantes.html'); ?>
+
+      <hr class="featurette-divider">
+
+
       <?php include ('./dotk/05main/03comunidad/comunidadupp.html'); ?>
       <?php include ('./dotk/05main/03comunidad/egresados.html'); ?>
 
@@ -55,7 +61,7 @@
       <a id="redessociales"></a>
       <hr class="featurette-divider">
       <!-- Alfredo redes sociales y sitios de interes -->
-      <?php //include ('./dotk/05main/06owl/tabs.html'); ?>
+      <?php include ('./dotk/05main/06owl/tabs.html'); ?>
 
       <hr class="featurette-divider">
       <?php include ('./dotk/05main/07ligasdint/iconosfooter.php'); ?>
