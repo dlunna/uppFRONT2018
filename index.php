@@ -5,9 +5,24 @@
   <?php include ('./dotk/00head/analitycs.html'); ?>
   <?php include ('./dotk/00head/cabecera.html'); ?>
   <?php include ('./dotk/00head/estilos.html'); ?>
+
+  <style>
+  /**CSS**/
+     .bgimgdr {
+        background: url('./images/bgimgr.png') center no-repeat;
+     }
+     .displaybg{
+       text-align:justify;
+       color:#000000;
+       font-size: 10pt;
+      }
+  </style>
+
+
 </head>
 
 <body>
+
 
   <a id="arriba"></a>
   <header>

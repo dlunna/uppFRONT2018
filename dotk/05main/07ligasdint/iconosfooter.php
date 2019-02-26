@@ -58,6 +58,11 @@
                     <img src="./images/ligas/ecest.jpg" alt="ocho" class="img-thumbnail">
                   </a>
 
+                  <a href="http://ihfes.hidalgo.gob.mx/">
+                    <img src="./images/ligas/ihfes.jpg" alt="nueve" class="img-thumbnail">
+                  </a>
+
+
           </div>
         </div>
 

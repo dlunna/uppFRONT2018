@@ -154,6 +154,13 @@
 
       <br />
       <hr />
+
+      <h3>Programas de calidad</h3>
+      <a href="http://www.pnpec.sep.gob.mx/">
+        <img src="http://www.upp.edu.mx/rfront/wp-content/uploads/2018/10/programas_calida_animado.gif" class="featurette-image img-responsive img-thumbnail" alt="Revista INMENIO" />
+      </a>
+
+      <hr />
       <h3>Revista INMENIO</h3>
       <a href="https://issuu.com/inmenio/docs/inmenio_10">
         <img src="./images/revistas/INMENIO-2018-julio.jpg" class="featurette-image img-responsive img-thumbnail" alt="Revista INMENIO" />
@@ -164,6 +171,24 @@
       <a href="http://www.upp.edu.mx/simci">
         <img src="./images/revistas/mini-simci.jpg" class="featurette-image img-responsive img-thumbnail" alt="Revista SIMCI" />
       </a>
+<!--
+      <hr />
+      <h3>Encuesta desempeño docente</h3>
+      <a href="https://sii.upp.edu.mx">
+        <img src="http://www.upp.edu.mx/rfront/wp-content/uploads/2018/12/banner_desemp_docente_2018-1.jpg" class="featurette-image img-responsive img-thumbnail" alt="Encuesta desempeño docente" />
+      </a>
+      <a href="https://sii.upp.edu.mx">
+        <img src="http://www.upp.edu.mx/rfront/wp-content/uploads/2018/12/banner_desemp_docente_2018_SEMESTRE-1.jpg" class="featurette-image img-responsive img-thumbnail" alt="Encuesta desempeño docente" />
+      </a>
+-->
+      <hr />
+      <h3>Resultados</h3>
+      <a href="http://www.upp.edu.mx/3esp/index.php/institución/evaluación_PID.pdf">
+        <img src="./images/revistas/boton-pid.gif" class="featurette-image img-responsive img-thumbnail" alt="PID" />
+      </a>
+
+
+
     </div>
   </div> <!--fin de ROW -->
 </div> <!-- fin de container -->
